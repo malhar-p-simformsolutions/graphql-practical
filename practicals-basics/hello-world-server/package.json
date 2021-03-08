@@ -1,0 +1,9 @@
+{
+    "name": "hello-world-server",
+    "private": true,
+    "dependencies": {
+        "apollo-server-express": "^1.4.0",
+        "graphql": "^15.5.0",
+        "graphql-tools": "^7.0.4"
+    }
+}
