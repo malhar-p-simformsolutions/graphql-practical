@@ -1,0 +1,7 @@
+
+
+type Query
+{
+   greeting: String
+   sayHello(name:String!):String
+}
